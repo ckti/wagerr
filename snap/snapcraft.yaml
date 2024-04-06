@@ -1,7 +1,7 @@
 # Copyright (c) 2018-2021 The Wagerr developers
-name: wagerr
+name: wagerr-rebase
 base: core20
-version: 5.0.0
+version: v5.0.0-alpha
 summary:   wagerr, digital currency for media content
 description: |
   WAGERR is an open-source decentralized peer-to-peer currency featuring a Delegated Proof of Stake algorithm
